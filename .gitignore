@@ -1,0 +1,6 @@
+webroot/files/*
+!webroot/files/empty
+vendor/*
+composer.lock
+Config/credentials.json
+
